@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'mathfilters',
     'django.contrib.humanize',
     'taggit',
-    'mysite'
+    'myapp'
+
 
 ]
 
